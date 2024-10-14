@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ZX62D_B_5PA8_30_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Hirose", "ZX62D-B-5PA8(30)" (!) = "", "ZX62DB5PA830", "Other", "798-ZX62D-B-5PA830", "https://www.mouser.co.uk/ProductDetail/Hirose-Connector/ZX62D-B-5PA830?qs=1Nn7v2rJFSJs6IftS%252BmZAw%3D%3D", "USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole", "https://www.hirose.com/en/product/document?clcode=CL0242-0056-3-30&productname=ZX62D-B-5PA8(30)&series=ZX&documenttype=2DDrawing&lang=en&documentid=0001147958", "3 mm"
+END_PART
+
+END.

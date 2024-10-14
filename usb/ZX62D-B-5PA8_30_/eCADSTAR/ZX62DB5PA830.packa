@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ZX62D-B-5PA8_30_"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-09-01-03:08:35)
+    (mountForm default
+        (footprintRef "ZX62DB5PA830")
+        (spec "System")
+    )
+)

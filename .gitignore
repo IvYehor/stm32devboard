@@ -1,0 +1,12 @@
+pcb1/__Previews/
+pcb1/History/
+pcb1/Project Outputs for*
+pcb1/Project Logs
+pcb1/*.PrjPcbStructure
+pcb1/*.Dat
+pcb1/*.REP 
+pcb1/*.TLT
+pcb1/*.LOG
+pcb1/*.log
+pcb1/*.htm
+pcb1/*.$$$

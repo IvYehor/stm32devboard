@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CRCW1206750RJNTA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "CRCW1206750RJNTA" (!) = "", "RESC3216X60N", "Resistor Chip", "", "", "Lead (Pb)-Bearing Thick Film, Rectangular Chip Resistors", "https://www.mouser.co.uk/datasheet/2/427/dcrcw-72725.pdf", "0.6 mm"
+END_PART
+
+END.

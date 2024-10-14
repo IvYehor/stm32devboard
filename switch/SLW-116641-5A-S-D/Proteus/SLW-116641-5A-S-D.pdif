@@ -1,0 +1,120 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SLW-116641-5A-S-D"
+   (description "Slide Switches 11.6 x 6 x 4.1 mm, 5 mm Raised Slide Actuator, Through Hole")
+   (family "SWI")
+   (package "SLW1166415ASD")
+   (attribute "Datasheet Link" "https://www.cuidevices.com/product/resource/pdf/slw-116641-5a-s-d.pdf")
+   (attribute "Geometry.Height" "11.3mm")
+   (attribute "Mouser Part Number" "179-SLW1166415ASD")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Same-Sky/SLW-116641-5A-S-D?qs=IKkN%2F947nfBZSdW8n5Vqgw%3D%3D")
+   (attribute "Manufacturer_Name" "Same Sky")
+   (attribute "Manufacturer_Part_Number" "SLW-116641-5A-S-D")
+   (gate
+    (symbol "SLW-116641-5A-S-D")
+    (pin "NC" 1 NC)
+    (pin "COM" 2 PS)
+    (pin "NO" 3 PS)
+   )
+  )
+  (symbol "SLW-116641-5A-S-D"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SLW1166415ASD"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.3 2.05)
+      (pt 8.3 2.05)
+      (pt 8.3 -2.05)
+      (pt -3.3 -2.05)
+      (pt -3.3 2.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.3 2.05)
+      (pt 8.3 2.05)
+      (pt 8.3 -2.05)
+      (pt -3.3 -2.05)
+      (pt -3.3 2.05))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.3 3.05)
+      (pt 9.3 3.05)
+      (pt 9.3 -3.05)
+      (pt -4.3 -3.05)
+      (pt -4.3 3.05))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.8 0)
+      (arc (pt -3.800 0.000) (pt -3.900 -0.050) (pt -3.800 0.050) (start 180.0) (sweep .0))
+      (pt -3.9 0)
+      (arc (pt -3.900 0.000) (pt -3.900 -0.050) (pt -3.800 0.050) (start 180.0) (sweep 180.0))
+      (pt -3.8 0))))
+   (leg 1 (pt 0.000 0.000) (padstack 1))
+   (leg 2 (pt 2.500 0.000) (padstack 0))
+   (leg 3 (pt 5.000 0.000) (padstack 0))
+   (padstack 0
+    (hole 0.84)
+    (plated true)
+    (pad (layer TCOP) (round 1.365))
+    (pad (layer INNER) (round 1.365))
+    (pad (layer BCOP) (round 1.365))
+   )
+   (padstack 1
+    (hole 0.84)
+    (plated true)
+    (pad (layer TCOP) (square 1.365))
+    (pad (layer INNER) (round 1.365))
+    (pad (layer BCOP) (square 1.365))
+   )
+   (model "SLW-116641-5A-S-D.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

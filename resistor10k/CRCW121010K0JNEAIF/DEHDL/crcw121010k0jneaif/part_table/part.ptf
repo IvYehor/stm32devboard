@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CRCW121010K0JNEAIF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "CRCW121010K0JNEAIF" (!) = "", "RESC3225X60N", "Resistor Chip", "", "", "10 kOhms +/-5% 0.5W, 1/2W Chip Resistor 1210 (3225 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film", "https://www.vishay.com/docs/20024/dcrcwife3.pdf", "0.6 mm"
+END_PART
+
+END.

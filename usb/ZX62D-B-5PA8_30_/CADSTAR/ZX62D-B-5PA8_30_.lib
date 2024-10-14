@@ -1,0 +1,17 @@
+.ZX62D-B-5PA8_30_ :1 ;USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle; Through Hole
+ZX62DB5PA830
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=MH1 7=MH2 8=MH3 9=MH4 10=MP1 11=MP2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="MH1" 7="MH2" 8="MH3" 9="MH4" 10="MP1" 11="MP2"
+*MXP 11
+*DFN ZX62D-B-5PA8_30_
+~!Mouser Part Number (798-ZX62D-B-5PA830)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Hirose-Connector/ZX62D-B-5PA830?qs=1Nn7v2rJFSJs6IftS%252BmZAw%3D%3D)
+~!Manufacturer_Name (Hirose)
+~!Manufacturer_Part_Number (ZX62D-B-5PA8(30))
+~!Link Datasheet (https://www.hirose.com/en/product/document?clcode=CL0242-0056-3-30&productname=ZX62D-B-5PA8(30)&series=ZX&documenttype=2DDrawing&lang=en&documentid=0001147958)
+~!Height (3mm)
+~!3D_Model (ZX62D-B-5PA8_30_)
+ZX62D-B-5PA8_30_
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32C011F4P6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32C011F4P6" (!) = "", "SOP65P640X120-20N", "Small Outline Packages", "511-STM32C011F4P6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32C011F4P6?qs=IPgv5n7u5Qbo1GzhbgPEPw%3D%3D", "", "", "ARM Cortex-M0+ STM32L0 Microcontroller IC 32-Bit Single-Core 32MHz 16KB (16K x 8) FLASH 20-TSSOP", "https://www.st.com/resource/en/datasheet/stm32c011d6.pdf", "1.2 mm"
+END_PART
+
+END.

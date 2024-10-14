@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ZX62DB5PA830"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ZX62DB5PA830")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STM32C011F4P6
+D ARM Cortex-M0+ STM32L0 Microcontroller IC 32-Bit Single-Core 32MHz 16KB (16K x 8) FLASH 20-TSSOP
+K
+F https://www.st.com/resource/en/datasheet/stm32c011d6.pdf
+$ENDCMP
+#
+#End Doc Library

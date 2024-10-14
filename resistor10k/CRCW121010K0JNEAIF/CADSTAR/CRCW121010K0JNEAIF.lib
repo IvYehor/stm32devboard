@@ -1,0 +1,16 @@
+.CRCW121010K0JNEAIF :1 ;10 kOhms +/-5% 0.5W, 1/2W Chip Resistor 1210 (3225 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film
+RESC3225X60N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CRCW121010K0JNEAIF
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (CRCW121010K0JNEAIF)
+~!Link Datasheet (https://www.vishay.com/docs/20024/dcrcwife3.pdf)
+~!Height (0.6mm)
+~!3D_Model (CRCW121010K0JNEAIF)
+CRCW121010K0JNEAIF
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CRCW121010K0JNEAIF
+D 10 kOhms +/-5% 0.5W, 1/2W Chip Resistor 1210 (3225 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film
+K
+F https://www.vishay.com/docs/20024/dcrcwife3.pdf
+$ENDCMP
+#
+#End Doc Library

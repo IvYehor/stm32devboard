@@ -1,0 +1,70 @@
+(Japanese_coding: sjis)
+(function "ECS_19913774"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-09-04-13:00:10)
+    (utime 2024-09-04-13:00:10)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "SLW-116641-5A-S-D")
+)
+
+
+(pinAssign "ECS_19913774"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-09-04-13:00:10)
+    (utime 2024-09-04-13:00:10)
+    (interface
+        (port "1" (symbPinId 1) (portName "NC") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "COM") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "NO") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_19913774")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SLW-116641-5A-S-D")
+)
+
+
+(part "SLW-116641-5A-S-D"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-09-04-13:00:10)
+    (utime 2024-09-04-13:00:10)
+    (packageRef "SLW-116641-5A-S-D")
+    (pinAssignRef "ECS_19913774")
+    (interface
+        (port "1" (symbPinId 1) (portName "NC") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "COM") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "NO") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "S")
+    (property "description" "Slide Switches 11.6 x 6 x 4.1 mm, 5 mm Raised Slide Actuator, Through Hole")
+    (property "Mouser_Part_Number" "179-SLW1166415ASD")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Same-Sky/SLW-116641-5A-S-D?qs=IKkN%2F947nfBZSdW8n5Vqgw%3D%3D")
+    (property "Manufacturer_Name" "Same Sky")
+    (property "Manufacturer_Part_Number" "SLW-116641-5A-S-D")
+    (property "Datasheet_Link" "https://www.cuidevices.com/product/resource/pdf/slw-116641-5a-s-d.pdf")
+    (property "compAreaTopHeight" 11.3)
+)
+
+

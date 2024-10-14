@@ -1,0 +1,18 @@
+.STM32C011F4P6 :1 ;ARM Cortex-M0+ STM32L0 Microcontroller IC 32-Bit Single-Core 32MHz 16KB (16K x 8) FLASH 20-TSSOP
+SOP65P640X120-20N
+*STM IC
+*NGS
+*PLB 1="PB7" 2="PC14-OSCX_IN" 3="PC15-OSCX_OUT" 4="VDD/VDDA" 5="VSS/VSSA" 6="PF2-NRST" 7="PA0" 8="PA1" 9="PA2" 10="PA3" 11="PA4" 12="PA5" 13="PA6" 14="PA7" 15="PA8" 16="PA11[PA9]" 17="PA12[PA10]" 18="PA13" 19="PA14-BOOT0" 20="PB6"
+*MXP 20
+*DFN STM32C011F4P6
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (STM32C011F4P6)
+~!Mouser Part Number (511-STM32C011F4P6)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32C011F4P6?qs=IPgv5n7u5Qbo1GzhbgPEPw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/stm32c011d6.pdf)
+~!Height (1.2mm)
+~!3D_Model (STM32C011F4P6)
+STM32C011F4P6
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 

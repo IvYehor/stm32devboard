@@ -1,0 +1,16 @@
+.CRCW1206750RJNTA :1 ;Lead (Pb)-Bearing Thick Film, Rectangular Chip Resistors
+RESC3216X60N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CRCW1206750RJNTA
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (CRCW1206750RJNTA)
+~!Link Datasheet (https://www.mouser.co.uk/datasheet/2/427/dcrcw-72725.pdf)
+~!Height (0.6mm)
+~!3D_Model (CRCW1206750RJNTA)
+CRCW1206750RJNTA
+1.1!U 2.1!U 

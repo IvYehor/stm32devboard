@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '12062C104JAT2A'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kyocera AVX", "12062C104JAT2A" (!) = "", "CAPC3216X178N", "Capacitor Chip Non-polarised", "581-12062C104JAT2A", "https://www.mouser.co.uk/ProductDetail/AVX/12062C104JAT2A?qs=ZBeOGGPQgEEapHNxb9gG6A%3D%3D", "Cap Ceramic 0.1uF 200V X7R 5% Pad SMD 1206 125C T/R", "https://datasheets.avx.com/X7RDielectric.pdf", "1.78 mm"
+END_PART
+
+END.

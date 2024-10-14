@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_18514605"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-16-11:26:45)
+    (utime 2023-08-16-11:26:45)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CRCW1206750RJNTA")
+)
+
+
+(pinAssign "ECS_18514605"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-16-11:26:45)
+    (utime 2023-08-16-11:26:45)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_18514605")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CRCW1206750RJNTA")
+)
+
+
+(part "CRCW1206750RJNTA"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-08-16-11:26:45)
+    (utime 2023-08-16-11:26:45)
+    (packageRef "CRCW1206750RJNTA")
+    (pinAssignRef "ECS_18514605")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "Lead (Pb)-Bearing Thick Film, Rectangular Chip Resistors")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "CRCW1206750RJNTA")
+    (property "Datasheet_Link" "https://www.mouser.co.uk/datasheet/2/427/dcrcw-72725.pdf")
+    (property "compAreaTopHeight" 0.6)
+)
+
+

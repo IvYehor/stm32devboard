@@ -1,0 +1,9 @@
+Manufacturer=Hirose
+PartNumber=ZX62D-B-5PA8(30)
+PartCategory=Connector
+PackageCategory=Other
+PinCount=11
+Version=1.2
+Released=2023-09-01 03:08:35
+Downloaded=2024-10-11 12:18:47
+3D=Y

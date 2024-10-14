@@ -1,0 +1,9 @@
+Manufacturer=Kyocera AVX
+PartNumber=12062C104JAT2A
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2021-08-11 07:26:08
+Downloaded=2024-10-11 02:01:26
+3D=Y

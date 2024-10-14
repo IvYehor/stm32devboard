@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STM32C011F4P6
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=20
+Version=3.1
+Released=2023-01-18 11:00:05
+Downloaded=2024-10-11 01:57:31
+3D=Y

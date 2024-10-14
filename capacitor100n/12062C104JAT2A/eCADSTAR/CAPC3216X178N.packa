@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "12062C104JAT2A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-08-11-07:26:08)
+    (mountForm default
+        (footprintRef "CAPC3216X178N")
+        (spec "System")
+    )
+)

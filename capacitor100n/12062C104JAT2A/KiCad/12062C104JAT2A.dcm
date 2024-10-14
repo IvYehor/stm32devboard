@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 12062C104JAT2A
+D Cap Ceramic 0.1uF 200V X7R 5% Pad SMD 1206 125C T/R
+K
+F https://datasheets.avx.com/X7RDielectric.pdf
+$ENDCMP
+#
+#End Doc Library
